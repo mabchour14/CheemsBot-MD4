@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281251549899'] //ur owner number
-global.ownername = "ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑" //ur owner name
-global.ytname = "YT: DaniBotz" //ur yt chanel name
-global.socialm = "GitHub: YTDANIBOTZ" //ur github or insta name
-global.location = "Indonesia, Kalsel, Kandangan" //ur location
+global.vcardowner = ['6289517185039'] //ur owner number
+global.ownername = "NiceTryKillン👑" //ur owner name
+global.ytname = "YT: KilluaBOT" //ur yt chanel name
+global.socialm = "GitHub: KilluaZodlyck55" //ur github or insta name
+global.location = "Indonesia,  Jateng, Pekalongan" //ur location
 
 //bot bomdy 
-global.owner = ['6281251549899']
-global.ownertag = '6281251549899' //ur tag number
-global.botname = 'ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑' //ur bot name
+global.owner = ['6289517185039']
+global.ownertag = '6289517185039' //ur tag number
+global.botname = 'NiceTryPizzン👑' //ur bot name
 global.linkz = "https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg" //ur website to be displayed
 global.botscript = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "ᴅᴀɴɪ-ʙᴏᴛᴢStickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑" //ur sticker watermark auth or
+global.packname = "NiceTryKillン" //ur sticker watermark packname
+global.author = "Pizzaa:)" //ur sticker watermark auth or
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
